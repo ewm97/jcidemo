@@ -9,7 +9,14 @@ public class Calculator {
 		return a-b;
 	} 
 	
-	
-	//Test newlines
-	
+	public class Calculator1 {
+		public int add(int a, int b) {
+			return a+b+1;
+		}
+		
+		public int sub(int a, int b) {
+			return a-b;
+		} 
+		
+	}
 }
